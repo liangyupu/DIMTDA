@@ -1,2 +1,2 @@
-# DIMTDA
+# Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling
 Coming soon......
