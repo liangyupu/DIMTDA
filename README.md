@@ -86,7 +86,6 @@ If you want to cite our paper, please use the following BibTex entries:
   title={Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling},
   author={Liang, Yupu and Zhang, Yaping and Ma, Cong and Zhang, Zhiyang and Zhao, Yang and Xiang, Lu and Zong, Chengqing and Zhou, Yu},
   booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  pages={xxxx--xxxx},
   year={2024}
 }
 ```
