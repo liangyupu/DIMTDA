@@ -10,6 +10,7 @@ We also introduce a novel framework, **D**ocument **I**mage **M**achine **T**ran
 A dynamic model assembler is used to integrate multiple pre-trained models to enhance the model’s understanding of layout and translation capabilities.
 Moreover, we build a novel large-scale **Do**cument image machine **T**ranslation dataset of **A**rXiv articles in markdown format (DoTA), containing 126K image-translation pairs.
 Extensive experiments demonstrate the feasibility of end-to-end translation of rich-text document images and the effectiveness of DIMTDA.
+
 ![The diagram of the proposed DIMTDA.](images/fig_model.png)
 
 ![The output samples of DIMTDA. (a) and (c) are the original document images. (b) and (d) are the output translated texts in markdown format after rendering.](images/fig_samples.png)
