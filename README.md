@@ -11,9 +11,11 @@ A dynamic model assembler is used to integrate multiple pre-trained models to en
 Moreover, we build a novel large-scale **Do**cument image machine **T**ranslation dataset of **A**rXiv articles in markdown format (DoTA), containing 126K image-translation pairs.
 Extensive experiments demonstrate the feasibility of end-to-end translation of rich-text document images and the effectiveness of DIMTDA.
 
-![The diagram of the proposed DIMTDA.](images/fig_model.png)
+**The diagram of the proposed DIMTDA.**
+![](images/fig_model.png)
 
-![The output samples of DIMTDA. (a) and (c) are the original document images. (b) and (d) are the output translated texts in markdown format after rendering.](images/fig_samples.png)
+**The output samples of DIMTDA.** (a) and (c) are the original document images. (b) and (d) are the output translated texts in markdown format after rendering.
+![](images/fig_samples.png)
 
 ## DoTA dataset
 In addition to the 126K samples mentioned in the paper, we provide all 139K samples that have not been filtered.
@@ -69,7 +71,8 @@ bash evaluate.sh
 ```
 
 ## More samples
-![The output samples of DIMTDA. For each image pair, the left one is the input document image, and the right one is the output translations in markdown format after rendering.](images/fig_appendix.png)
+The output samples of DIMTDA. For each image pair, the left one is the input document image, and the right one is the output translations in markdown format after rendering.
+![](images/fig_appendix.png)
 
 
 ## Acknowledgement
