@@ -1,6 +1,6 @@
 # Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling
 
-This is the official repository for **DIMTDA** framework and **DoTA** dataset introduced by the following paper: [***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling (NAACL 2024 Main)***](https://liangyupu.github.io/)
+This is the official repository for **DIMTDA** framework and **DoTA** dataset introduced by the following paper: [***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling (NAACL 2024 Main)***](https://openreview.net/forum?id=XH2TgKlXWv)
 
 ## Abstract
 Text image machine translation (TIMT) is a task that translates source texts embedded in the image to target translations.
@@ -82,11 +82,13 @@ We also thank [microsoft/unilm](https://github.com/microsoft/unilm/tree/master/d
 ## Citation
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
-@inproceedings{liang2024document,
-  title={Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling},
-  author={Liang, Yupu and Zhang, Yaping and Ma, Cong and Zhang, Zhiyang and Zhao, Yang and Xiang, Lu and Zong, Chengqing and Zhou, Yu},
-  booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  year={2024}
+@inproceedings{
+liang2024document,
+title={Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling},
+author={Yupu Liang and Yaping Zhang and Cong MA and Zhiyang Zhang and Yang Zhao and Lu Xiang and Chengqing Zong and Yu Zhou},
+booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+year={2024},
+url={https://openreview.net/forum?id=XH2TgKlXWv}
 }
 ```
 
