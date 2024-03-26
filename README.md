@@ -2,7 +2,7 @@
 
 This is the official repository for **DIMTDA** framework and **DoTA** dataset introduced by the following paper: [***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling (NAACL 2024 Main)***](https://openreview.net/forum?id=XH2TgKlXWv)
 
-## Abstract
+## 📜 Abstract
 Text image machine translation (TIMT) is a task that translates source texts embedded in the image to target translations.
 The existing TIMT task mainly focuses on text-line-level images.
 In this paper, we extend the current TIMT task and propose a novel task, **D**ocument **I**mage **M**achine **T**ranslation to **Markdown** (DIMT2Markdown), which aims to translate a source document image with long context and complex layout structure to markdownformatted target translation.
@@ -17,14 +17,14 @@ Extensive experiments demonstrate the feasibility of end-to-end translation of r
 **The output samples of DIMTDA.** (a) and (c) are the original document images. (b) and (d) are the output translated texts in markdown format after rendering.
 ![](images/fig_samples.png)
 
-## DoTA dataset
+## 🗂️ DoTA dataset
 In addition to the 126K samples mentioned in the paper, we provide all 139K samples that have not been filtered.
 Each sample contains original English image, transcripted English mmd file and translated Chinese/French/German mmd file.
 Samples used in the paper are listed in a json file.
 
 The DoTA dataset can be downloaded from this [huggingface link](https://huggingface.co/datasets/liangyupu/DoTA_dataset).
 
-## DIMTDA
+## 🛠️ DIMTDA
 ### 1. Requirements
 ```bash
 python==3.10.13
@@ -70,16 +70,16 @@ bash inference.sh
 bash evaluate.sh
 ```
 
-## More samples
+## 🖻 More samples
 The output samples of DIMTDA. For each image pair, the left one is the input document image, and the right one is the output translations in markdown format after rendering.
 ![](images/fig_appendix.png)
 
 
-## Acknowledgement
+## 🙏🏻 Acknowledgement
 We thank @lukas-blecher and [facebookresearch/nougat](https://github.com/facebookresearch/nougat) project for providing dataset construction method and pre-trained model.
 We also thank [microsoft/unilm](https://github.com/microsoft/unilm/tree/master/dit) project for providing pre-trained model.
 
-## Citation
+## ✍🏻 Citation
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
 @inproceedings{
