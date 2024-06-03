@@ -85,7 +85,7 @@ If you want to cite our paper, please use the following BibTex entries:
 @inproceedings{
 liang2024document,
 title={Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling},
-author={Yupu Liang and Yaping Zhang and Cong MA and Zhiyang Zhang and Yang Zhao and Lu Xiang and Chengqing Zong and Yu Zhou},
+author={Yupu Liang and Yaping Zhang and Cong Ma and Zhiyang Zhang and Yang Zhao and Lu Xiang and Chengqing Zong and Yu Zhou},
 booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
 year={2024},
 url={https://openreview.net/forum?id=XH2TgKlXWv}
