@@ -1,6 +1,6 @@
 # Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling
 
-This is the official repository for **DIMTDA** framework and **DoTA** dataset introduced by the following paper: [***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling (NAACL 2024 Main)***](https://openreview.net/forum?id=XH2TgKlXWv)
+This is the official repository for **DIMTDA** framework and **DoTA** dataset introduced by the following paper: [***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling (NAACL 2024 Main)***](https://aclanthology.org/2024.naacl-long.392)
 
 ## 📜 Abstract
 Text image machine translation (TIMT) is a task that translates source texts embedded in the image to target translations.
