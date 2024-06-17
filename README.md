@@ -82,13 +82,26 @@ We also thank [microsoft/unilm](https://github.com/microsoft/unilm/tree/master/d
 ## ✍🏻 Citation
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
-@inproceedings{
-liang2024document,
-title={Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling},
-author={Yupu Liang and Yaping Zhang and Cong Ma and Zhiyang Zhang and Yang Zhao and Lu Xiang and Chengqing Zong and Yu Zhou},
-booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
-year={2024},
-url={https://openreview.net/forum?id=XH2TgKlXWv}
+@inproceedings{liang-etal-2024-document,
+    title = "Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling",
+    author = "Liang, Yupu  and
+      Zhang, Yaping  and
+      Ma, Cong  and
+      Zhang, Zhiyang  and
+      Zhao, Yang  and
+      Xiang, Lu  and
+      Zong, Chengqing  and
+      Zhou, Yu",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.392",
+    pages = "7077--7088",
 }
 ```
 
