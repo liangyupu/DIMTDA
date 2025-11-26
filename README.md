@@ -22,7 +22,9 @@ In addition to the 126K samples mentioned in the paper, we provide all 139K samp
 Each sample contains original English image, transcripted English mmd file and translated Chinese/French/German mmd file.
 Samples used in the paper are listed in a json file.
 
-The DoTA dataset can be downloaded from this [huggingface link](https://huggingface.co/datasets/liangyupu/DoTA_dataset). Please send an email to [liangyupu2021@ia.ac.cn](mailto:liangyupu2021@ia.ac.cn) to inform your name and affiliated institution after submitting the download application on Hugging Face.
+The DoTA dataset can be downloaded from this [huggingface link](https://huggingface.co/datasets/liangyupu/DoTA_dataset).
+
+Please provide your **Name**, **Email**, and **Affiliation** when applying for access. We will approve your request as soon as possible upon receiving the system notification.
 
 ## 🛠️ DIMTDA
 ### 1. Requirements
